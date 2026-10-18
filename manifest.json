@@ -1,0 +1,11 @@
+{
+  "name": "实时读屏翻译",
+  "short_name": "读屏翻译",
+  "description": "摄像头实时识别文字并翻译为滚动字幕",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#0a0e14",
+  "theme_color": "#0a0e14"
+}
